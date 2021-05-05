@@ -99,7 +99,7 @@
   "OFFER_RIDE_STARTING_PT": "Starting point???",
   "OFFER_RIDE_MY_LOCA": "My location",
   "OFFER_RIDE_FIND_ON_MAP": "Find on map",
-  "OFFER_RIDE_MAX_PASSENGERS": "Maximum number of passengers in your car",
+  "OFFER_RIDE_MAX_PASSENGERS": "maximum number of available seats for <<event name>> fans",
   "OFFER_RIDE_STARTS": "starts at ",
   "OFFER_RIDE_SUGG_ARRIV": "Suggested arrival time with your parking preference:",
   "OFFER_RIDE_EST_DURATION": "The estimated ride duration is",
