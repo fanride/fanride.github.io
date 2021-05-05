@@ -158,15 +158,15 @@
   "RIDE_MAP_CONFIRM": "Confirm",
 
   "SEARCH_RIDE_FIND_RIDE" : "Find Ride",
-  "SEARCH_RIDE_1_PERSON" :"1 Person",
-  "SEARCH_RIDE_TO_EVENT" :"To event",
-  "SEARCH_RIDE_FROM_EVENT" :"From event",
-  "SEARCH_RIDE_RIDER" :"I'm a rider",
-  "SEARCH_RIDE_DRIVER" :"I'm a driver",
-  "SEARCH_RIDE_POST" :"Post a ride",
-  "SEARCH_RIDE_FIND" :"Find a ride",
-  "SEARCH_RIDE_EVENT_NAME" :"Type event name",
-  "SEARCH_RIDE_NO_EVENT" :"No event found !"
+  "SEARCH_RIDE_1_PERSON" : "1 Person",
+  "SEARCH_RIDE_TO_EVENT" : "To event",
+  "SEARCH_RIDE_FROM_EVENT" : "From event",
+  "SEARCH_RIDE_RIDER" : "I'm a rider",
+  "SEARCH_RIDE_DRIVER" : "I'm a driver",
+  "SEARCH_RIDE_POST" : "Post a ride",
+  "SEARCH_RIDE_FIND" : "Find a ride",
+  "SEARCH_RIDE_EVENT_NAME" : "Type event name",
+  "SEARCH_RIDE_NO_EVENT" : "No event found !"
 
 
 
