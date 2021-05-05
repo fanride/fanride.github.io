@@ -91,7 +91,7 @@
   "OFFER_RIDE_1_PASS": "1 passenger  :  ... ",
   "OFFER_RIDE_2_PASS": "2 passenger  :  ... ",
   "OFFER_RIDE_MSG": "Message to riders",
-  "OFFER_RIDE_PRESENT": "Tell us more about yourself, and increase the probability of finding passengers",
+  "OFFER_RIDE_PRESENT": "Tell us more about yourself and increase the probability of finding passengers",
   "OFFER_RIDE_DESCRI": "Please enter a short description",
   "OFFER_RIDE_PUBLISH": "Post your fanride",
   "OFFER_RIDE_PLEASE_COMPLETE": "Please complete all steps before validation.",
@@ -107,9 +107,9 @@
   "OFFER_RIDE_SUGG_DEPT": "Suggested departure time:",
   "OFFER_RIDE_ARRIVAL": "Arrival :",
   "OFFER_RIDE_DEPT": "Departure :",
-  "OFFER_RIDE_PUBLISHED": "Published!",
-  "OFFER_RIDE_BEEN_PUBLISHED": "Your ride has been published!",
-  "OFFER_RIDE_RETURN_RIDE": "Do you want to publish a return ride?",
+  "OFFER_RIDE_PUBLISHED": "Your Fanride has been created!",
+  "OFFER_RIDE_BEEN_PUBLISHED": "Hello Driver! Thank you for offering the available seats in your car to fellow fans who are looking for a reliable and affordable way to get to the event! We are excited to have you part of our community ! Meet cool fellow fans, bring down pollution and save time being stuck in traffic! You have made the first step, now our Fanride Fair Ride Calculator will get to work and connect you with people we’re absolutely positive you will like to meet! ",
+  "OFFER_RIDE_RETURN_RIDE": "No more return ride question",
 
 
   "REGISTER_INTO": "Register into Fanride",
