@@ -6,10 +6,10 @@
 
   "HOME_MIN_COST": "From",
 
-  "HOME_SUMMARY_PASSENGERS" : "Passengers :",
+  "HOME_SUMMARY_PASSENGERS" : "Passengers:",
   "HOME_SUMMARY_RIDE_TO" : "Ride to ",
   "HOME_SUMMARY_AT" :"at ",
-  "HOME_SUMMARY_SEATS" : "Remaining seats :",
+  "HOME_SUMMARY_SEATS" : "Available seats:",
   "HOME_SUMMARY_YOUR_RIDE" : "Your ride",
   "HOME_SUMMARY_TO" : "to",
   "HOME_SUMMARY_IMMINENT" : "is imminent",
@@ -32,7 +32,7 @@
   "HOME_SUMMARY_ARRIVAL" : "Arrival",
   "HOME_SUMMARY_CANCELLED" : "Cancelled",
   "HOME_SUMMARY_REJECTED" : "Rejected",
-  "HOME_SUMMARY_DISMISS_TITLE" : "Are you sure you want to dismiss this ride ?",
+  "HOME_SUMMARY_DISMISS_TITLE" : "Are you sure you want to remove this ride?",
   "HOME_SUMMARY_DISMISS_CONTENT" : "You will not be able to find this ride again",
 
 
@@ -92,11 +92,11 @@
   "OFFER_RIDE_PASSENGERS": "Passengers",
   "OFFER_RIDE_ARRIVAL_TIME": "Arrival Time",
   "OFFER_RIDE_EST_PRICE": "Estimated Price",
-  "OFFER_RIDE_SHOW_EST_PRICE": "Show estimated price for",
-  "OFFER_RIDE_1_PASS": "1 passenger  : ",
-  "OFFER_RIDE_2_PASS": "2 passenger  : ",
+  "OFFER_RIDE_SHOW_EST_PRICE": "Estimated price per passenger depending on how many Fanrides join your ride",
+  "OFFER_RIDE_1_PASS": "1 passenger: 1 x € ",
+  "OFFER_RIDE_2_PASS": "2 passengers: 2 x € ",
   "OFFER_RIDE_MSG": "Message to riders",
-  "OFFER_RIDE_PRESENT": "Tell us more about yourself and increase the probability of finding passengers",
+  "OFFER_RIDE_PRESENT": "Tell us more about yourself and increase the probability of finding passengers:",
   "OFFER_RIDE_DESCRI": "Please enter a short description",
   "OFFER_RIDE_PUBLISH": "Post your fanride",
   "OFFER_RIDE_PLEASE_COMPLETE": "Please complete all steps before validation.",
